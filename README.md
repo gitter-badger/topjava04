@@ -1,5 +1,7 @@
 Java Enterprise Online Project 
 ===============================
+
+[![Join the chat at https://gitter.im/JavaWebinar/topjava04](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/JavaWebinar/topjava04?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Наиболее востребованные технологии /инструменты / фреймворки Java Enterprise:
 Maven/ Spring/ Security/ JPA(Hibernate)/ REST(Jackson)/ Bootstrap(CSS)/ jQuery + plugins.
 
